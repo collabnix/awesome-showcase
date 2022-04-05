@@ -14,6 +14,12 @@
  git clone https://github.com/ajeetraina/awesome-showcase
 ```
 
+## Switch to master branch
+
+```
+ git checkout master
+```
+
 ## Install the dependencies
 
 ```
