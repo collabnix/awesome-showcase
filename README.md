@@ -19,7 +19,7 @@
   <p align="center">
     List of sample apps built by the Community, for the community
     <br />
-    <a href="https://showcase.docker.com"><strong>Check out the sample apps »</strong></a>
+    <a href="https://docker-awesome-showcase.netlify.app"><strong>Check out the sample apps »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ajeetraina/awesome-showcase/issues">Report Error</a>
@@ -53,25 +53,23 @@
 
 <!-- MENU STRUCTURE - CONTENT CREATION IN PROGRESS -->
 
-## Menu Structure - Content creation in progress - ASK FOR YOUR HELP!
 
-Please feel free to contribute to any of the available pages. This is the current state of progress:
 
-In this document all current Menu pages are marked with current progress status. You can choose the page you would like to contribute and get linked directly to the editable .md file in our Repo here:
+Please feel free to contribute sample apps for Docker Showcase 
 
-https://www.notion.so/iotafoundation/Contribute-to-the-IOTA-Wiki-698e95b0bac8469d897fd13cf49574b3
 
-Please mark the page you work on "in progress"
+
+
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-The IOTA wiki is a central hub for entering into the IOTA eco-system. A community driven initiative to provide an up-to-date collection of introductions and further reading for the Tech, The Teams, The Community, and everything in between. So anyone can learn how to build, adopt, and engage with IOTA, all in one space.
+The Docker Showcase is a central hub for Docker Awesome Compose sample apps. A community driven initiative to provide an up-to-date collection of introductions and further reading for the Tech, The Teams, The Community, and everything in between. So anyone can learn how to build, adopt, and engage with Awesome Compose, all in one space.
 
 ### Built With
 
-The IOTA wiki and content is contained within this repo, and the system has been built using [Docusaurus v2.0](https://docusaurus.io/).
+The Docker Showcase page and content is contained within this repo, and the system has been built using [Docusaurus v2.0](https://docusaurus.io/).
 
 <!-- GETTING STARTED -->
 
@@ -91,39 +89,14 @@ Install [Node.js](https://nodejs.org/en/download/).
 
 ## Contributing
 
-The IOTA wiki is a community development and we will review all pull-requests and issues posted to this repository. If you notice any errors, or feel we have forgot something, please feel free to create a pull request with any suggestions. Larger content additions and suggestions can start as issues which can further be discussed with the team maintaining the page.  
-Have a look at [CONTRIBUTING](.github/CONTRIBUTING.md).
+The Docker Showcase site is a community development and we will review all pull-requests and issues posted to this repository. If you notice any errors, or feel we have forgot something, please feel free to create a pull request with any suggestions. Larger content additions and suggestions can start as issues which can further be discussed with the team maintaining the page.  
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
 
 ## Contact
 
-Phylo - [Phyloiota](https://github.com/Phyloiota) - Phylo [Community DAO - lets go!]#2233  
-Jeroen van den Hout - [jlvandenhout](https://github.com/jlvandenhout) - jvdhout#4402  
-Dr.Electron - [Dr-Electron](https://github.com/Dr-Electron) - Dr.Electron#9370  
-Critical - [Critical94](https://github.com/Critical94) - Critical#7111
+Ajeet Singh Raina <br>
+Shashank Sharma <br>
+Eva <br>
+Alba <br>
+Aurelien<br>
 
-## Donate
-
-The IOTA wiki is a completely voluntary project put together, maintained, and contributed to by a group of enthusiastic community members.
-Feel free to support our work:
-
-#### iota1qzrmyrnfhfauhv6gax50ncx844uppq4c5dddp3gk99ha0lx5jeqkwk6dapx
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/iota-community/iota-wiki.svg?style=for-the-badge
-[contributors-url]: https://github.com/iota-community/iota-wiki/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/iota-community/iota-wiki.svg?style=for-the-badge
-[forks-url]: https://github.com/iota-community/iota-wiki/network/members
-[stars-shield]: https://img.shields.io/github/stars/iota-community/iota-wiki.svg?style=for-the-badge
-[stars-url]: https://github.com/iota-community/iota-wiki/stargazers
-[issues-shield]: https://img.shields.io/github/issues/iota-community/iota-wiki.svg?style=for-the-badge
-[issues-url]: https://github.com/iota-community/iota-wiki/issues
