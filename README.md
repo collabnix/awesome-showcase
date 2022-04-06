@@ -10,21 +10,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://wiki.iota.org">
+  <a href="https://showcase.docker.com">
     <img src="static/img/logo.svg" alt="Logo" width="80" height="80" fill="#ffffff">
   </a>
 
-  <h3 align="center">IOTA Wiki</h3>
+  <h3 align="center">Docker Awesome Showcase</h3>
 
   <p align="center">
-    Everything you need to know about IOTA in one place.
+    List of sample apps built by the Community, for the community
     <br />
-    <a href="https://wiki.iota.org"><strong>Explore the Wiki »</strong></a>
+    <a href="https://showcase.docker.com"><strong>Check out the sample apps »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/iota-community/iota-wiki/issues">Report Error</a>
+    <a href="https://github.com/ajeetraina/awesome-showcase/issues">Report Error</a>
     ·
-    <a href="https://github.com/iota-community/iota-wiki/issues">Request Topic</a>
+    <a href="https://github.com/ajeetraina/awesome-showcase/issues">Request Topic</a>
     .
   </p>
 </p>
