@@ -2,10 +2,6 @@
 *** This README is usinge the Best-README-Template (https://github.com/othneildrew/Best-README-Template).
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
